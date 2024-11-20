@@ -1,0 +1,4 @@
+plugins {
+  id 'no.polarismedia.java-template.root'
+}
+

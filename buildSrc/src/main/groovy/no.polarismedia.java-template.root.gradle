@@ -1,0 +1,9 @@
+plugins {
+  // Apply the common convention plugin for shared build configuration between library and application projects.
+  id 'no.polarismedia.java-template.java-common-conventions'
+}
+
+wrapper {
+  distributionType = Wrapper.DistributionType.ALL
+  gradleVersion = "8.11"
+}

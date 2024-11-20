@@ -1,0 +1,9 @@
+plugins {
+    id 'no.polarismedia-java-template.java-library-conventions'
+}
+
+dependencies {
+    implementation libs.bundles.testing
+}
+
+
