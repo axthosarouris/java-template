@@ -1,5 +1,5 @@
 [versions]
-junit = { strictly = '5.11.3' }
+junit = { strictly = '5.14.1' }
 assertj = { strictly = '3.26.3' }
 hamcrest = { strictly = '3.0' }
 

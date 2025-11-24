@@ -36,7 +36,7 @@ jacocoTestReport {
 
 
 jacoco {
-  toolVersion = "0.8.11"
+  toolVersion = "0.8.14"
 }
 
 jacocoTestCoverageVerification {
@@ -67,7 +67,7 @@ jacocoTestCoverageVerification.dependsOn(jacocoTestReport)
 
 pmd {
   consoleOutput = true
-  toolVersion = "7.7.0"
+  toolVersion = "7.18.0"
   rulesMinimumPriority = 5
   ruleSets = ["${rootProject.getRootDir()}/qa_config/pmd/ruleset.xml"]
 }
