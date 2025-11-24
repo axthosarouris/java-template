@@ -1,4 +1,4 @@
-package no.polarismedia.telephonecatalogue;
+package no.polarismedia.template;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

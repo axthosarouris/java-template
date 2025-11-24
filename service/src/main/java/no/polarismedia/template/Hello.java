@@ -1,4 +1,4 @@
-package no.polarismedia.telephonecatalogue;
+package no.polarismedia.template;
 
 public class Hello {
 

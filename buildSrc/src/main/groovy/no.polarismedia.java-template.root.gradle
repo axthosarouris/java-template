@@ -5,5 +5,5 @@ plugins {
 
 wrapper {
   distributionType = Wrapper.DistributionType.ALL
-  gradleVersion = "8.11"
+  gradleVersion = "9.2.1"
 }
